@@ -78,6 +78,10 @@
 
 1. User
 
+![Output](https://github.com/AJ-Walker/Avtaar-Assignment-2/blob/main/userdata.PNG)
 
 2. Events
+
+![Output](https://github.com/AJ-Walker/Avtaar-Assignment-2/blob/main/eventsdata.PNG)
+
 
